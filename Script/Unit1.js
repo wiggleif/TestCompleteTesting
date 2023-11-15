@@ -33,7 +33,7 @@ function Test1()
   textbox = form.textboxStreet;
   textbox.SetText("Maskinveien 2");
   textbox = form.textboxCity;
-  textbox.SetText("Sandnes");
+  textbox.SetText("Stavanger");
   textbox = form.textboxZip;
   textbox.SetText("4323");
   form.radiobuttonMastercard.ClickButton(); //
